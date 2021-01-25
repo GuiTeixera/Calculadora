@@ -1,0 +1,14 @@
+C:\Users\Guii\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Guii\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Guii\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Guii\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Guii\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.frmCalculadoraPadrao.resources
+C:\Users\Guii\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Guii\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Guii\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Guii\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Guii\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Guii\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.frmCalculadoraProgramador.resources
+C:\Users\Guii\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.frmCalculadoraCientifica.resources
+C:\Users\Guii\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.frmCalculadoraSobre.resources
+C:\Users\Guii\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.frmCalculadoraEstatistica.resources
